@@ -1,0 +1,138 @@
+feature,label,negative_value,row_count
+Flow Duration,BENIGN,-13.0,1
+Flow Duration,BENIGN,-12.0,2
+Flow Duration,BENIGN,-4.0,1
+Flow Duration,BENIGN,-2.0,2
+Flow Duration,BENIGN,-1.0,109
+Flow Bytes/s,BENIGN,-261000000.0,1
+Flow Bytes/s,BENIGN,-193000000.0,1
+Flow Bytes/s,BENIGN,-12000000.0,50
+Flow Bytes/s,BENIGN,-8000000.0,13
+Flow Bytes/s,BENIGN,-6000000.0,16
+Flow Bytes/s,BENIGN,-4000000.0,1
+Flow Bytes/s,BENIGN,-1000000.0,1
+Flow Bytes/s,BENIGN,-666666.6667,1
+Flow Bytes/s,BENIGN,-461538.4615,1
+Flow Packets/s,BENIGN,-2000000.0,109
+Flow Packets/s,BENIGN,-1000000.0,2
+Flow Packets/s,BENIGN,-500000.0,1
+Flow Packets/s,BENIGN,-166666.6667,2
+Flow Packets/s,BENIGN,-153846.1538,1
+Flow IAT Mean,BENIGN,-13.0,1
+Flow IAT Mean,BENIGN,-12.0,2
+Flow IAT Mean,BENIGN,-4.0,1
+Flow IAT Mean,BENIGN,-2.0,2
+Flow IAT Mean,BENIGN,-1.0,109
+Flow IAT Max,BENIGN,-13.0,1
+Flow IAT Max,BENIGN,-12.0,2
+Flow IAT Max,BENIGN,-4.0,1
+Flow IAT Max,BENIGN,-2.0,2
+Flow IAT Max,BENIGN,-1.0,109
+Flow IAT Min,BENIGN,-14.0,2
+Flow IAT Min,BENIGN,-13.0,11
+Flow IAT Min,BENIGN,-12.0,28
+Flow IAT Min,BENIGN,-11.0,10
+Flow IAT Min,BENIGN,-10.0,4
+Flow IAT Min,BENIGN,-6.0,2
+Flow IAT Min,BENIGN,-5.0,9
+Flow IAT Min,BENIGN,-4.0,16
+Flow IAT Min,BENIGN,-3.0,14
+Flow IAT Min,BENIGN,-2.0,26
+Flow IAT Min,BENIGN,-1.0,2575
+Flow IAT Min,DDoS,-12.0,1
+Flow IAT Min,DDoS,-1.0,18
+Flow IAT Min,Infiltration,-1.0,1
+Flow IAT Min,FTP-Patator,-1.0,4
+Flow IAT Min,SSH-Patator,-1.0,2
+Flow IAT Min,DoS Hulk,-13.0,1
+Flow IAT Min,DoS Hulk,-12.0,3
+Flow IAT Min,DoS Hulk,-11.0,1
+Flow IAT Min,DoS Hulk,-8.0,1
+Flow IAT Min,DoS Hulk,-5.0,2
+Flow IAT Min,DoS Hulk,-4.0,1
+Flow IAT Min,DoS Hulk,-3.0,3
+Flow IAT Min,DoS Hulk,-2.0,1
+Flow IAT Min,DoS Hulk,-1.0,146
+Flow IAT Min,DoS GoldenEye,-11.0,1
+Flow IAT Min,DoS GoldenEye,-1.0,4
+Flow IAT Min,Heartbleed,-1.0,4
+Fwd IAT Min,DDoS,-12.0,1
+Fwd IAT Min,DDoS,-1.0,5
+Fwd IAT Min,DoS Hulk,-8.0,1
+Fwd IAT Min,DoS Hulk,-1.0,7
+Fwd IAT Min,DoS GoldenEye,-1.0,3
+Fwd Header Length,BENIGN,-32212234632.0,1
+Fwd Header Length,BENIGN,-9663668122.0,1
+Fwd Header Length,BENIGN,-6442447920.0,2
+Fwd Header Length,BENIGN,-4831831506.0,1
+Fwd Header Length,BENIGN,-2147482640.0,1
+Fwd Header Length,BENIGN,-1929349973.0,1
+Fwd Header Length,BENIGN,-1073741320.0,3
+Fwd Header Length,BENIGN,-1073741218.0,1
+Fwd Header Length,BENIGN,-1073740992.0,1
+Fwd Header Length,BENIGN,-1006623756.0,1
+Fwd Header Length,BENIGN,-1006620072.0,1
+Fwd Header Length,BENIGN,-922738443.0,1
+Fwd Header Length,BENIGN,-167770494.0,2
+Fwd Header Length,BENIGN,-167770490.0,3
+Fwd Header Length,BENIGN,-167770470.0,1
+Fwd Header Length,BENIGN,-167770458.0,1
+Fwd Header Length,BENIGN,-167770400.0,1
+Fwd Header Length,BENIGN,-83885221.0,1
+Fwd Header Length,BENIGN,-83885137.0,1
+Fwd Header Length,BENIGN,-83885133.0,1
+Fwd Header Length,BENIGN,-83885125.0,3
+Fwd Header Length,BENIGN,-83885113.0,1
+Fwd Header Length,BENIGN,-83885093.0,1
+Fwd Header Length,BENIGN,-83885081.0,1
+Fwd Header Length,BENIGN,-83885015.0,1
+Fwd Header Length,BENIGN,-83885011.0,1
+Fwd Header Length,BENIGN,-11.0,1
+Bwd Header Length,BENIGN,-1073741320.0,3
+Bwd Header Length,BENIGN,-1073741218.0,1
+Bwd Header Length,BENIGN,-1073740992.0,1
+Bwd Header Length,BENIGN,-167770490.0,2
+Bwd Header Length,BENIGN,-167770470.0,1
+Bwd Header Length,BENIGN,-167770400.0,1
+Bwd Header Length,BENIGN,-83885221.0,1
+Bwd Header Length,BENIGN,-83885181.0,2
+Bwd Header Length,BENIGN,-83885145.0,1
+Bwd Header Length,BENIGN,-83885137.0,1
+Bwd Header Length,BENIGN,-83885133.0,1
+Bwd Header Length,BENIGN,-83885125.0,2
+Bwd Header Length,BENIGN,-83885113.0,1
+Bwd Header Length,BENIGN,-83885093.0,1
+Bwd Header Length,BENIGN,-83885081.0,1
+Bwd Header Length,BENIGN,-83885015.0,1
+Bwd Header Length,BENIGN,-83885011.0,1
+Fwd Header Length.1,BENIGN,-32212234632.0,1
+Fwd Header Length.1,BENIGN,-9663668122.0,1
+Fwd Header Length.1,BENIGN,-6442447920.0,2
+Fwd Header Length.1,BENIGN,-4831831506.0,1
+Fwd Header Length.1,BENIGN,-2147482640.0,1
+Fwd Header Length.1,BENIGN,-1929349973.0,1
+Fwd Header Length.1,BENIGN,-1073741320.0,3
+Fwd Header Length.1,BENIGN,-1073741218.0,1
+Fwd Header Length.1,BENIGN,-1073740992.0,1
+Fwd Header Length.1,BENIGN,-1006623756.0,1
+Fwd Header Length.1,BENIGN,-1006620072.0,1
+Fwd Header Length.1,BENIGN,-922738443.0,1
+Fwd Header Length.1,BENIGN,-167770494.0,2
+Fwd Header Length.1,BENIGN,-167770490.0,3
+Fwd Header Length.1,BENIGN,-167770470.0,1
+Fwd Header Length.1,BENIGN,-167770458.0,1
+Fwd Header Length.1,BENIGN,-167770400.0,1
+Fwd Header Length.1,BENIGN,-83885221.0,1
+Fwd Header Length.1,BENIGN,-83885137.0,1
+Fwd Header Length.1,BENIGN,-83885133.0,1
+Fwd Header Length.1,BENIGN,-83885125.0,3
+Fwd Header Length.1,BENIGN,-83885113.0,1
+Fwd Header Length.1,BENIGN,-83885093.0,1
+Fwd Header Length.1,BENIGN,-83885081.0,1
+Fwd Header Length.1,BENIGN,-83885015.0,1
+Fwd Header Length.1,BENIGN,-83885011.0,1
+Fwd Header Length.1,BENIGN,-11.0,1
+min_seg_size_forward,BENIGN,-536870661.0,2
+min_seg_size_forward,BENIGN,-536870660.0,9
+min_seg_size_forward,BENIGN,-83885313.0,23
+min_seg_size_forward,BENIGN,-1.0,1

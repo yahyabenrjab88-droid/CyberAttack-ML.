@@ -1,0 +1,7 @@
+source_file,mismatch_type,rows
+Wednesday-workingHours.pcap_ISCX.csv,BWD_ONLY,44
+Tuesday-WorkingHours.pcap_ISCX.csv,BWD_ONLY,38
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,BWD_ONLY,28
+Friday-WorkingHours-Morning.pcap_ISCX.csv,BWD_ONLY,28
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,BWD_ONLY,8
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,FWD_ONLY,1

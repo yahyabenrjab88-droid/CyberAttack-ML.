@@ -1,0 +1,12 @@
+label,rows_in_duplicate_feature_groups
+BENIGN,236927
+PortScan,101807
+DoS Hulk,59593
+SSH-Patator,2826
+FTP-Patator,2457
+DoS slowloris,508
+DoS Slowhttptest,323
+Web Attack � Brute Force,62
+DDoS,22
+Bot,19
+DoS GoldenEye,14

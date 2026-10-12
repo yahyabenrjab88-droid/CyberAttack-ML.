@@ -1,0 +1,294 @@
+{
+  "audit_passed": true,
+  "expected_feature_count": 68,
+  "feature_count_results": {
+    "TRAIN": true,
+    "VALIDATION": true,
+    "TEST": true
+  },
+  "feature_consistency": true,
+  "constant_removal_results": {
+    "TRAIN": true,
+    "VALIDATION": true,
+    "TEST": true
+  },
+  "numeric_results": {
+    "TRAIN": true,
+    "VALIDATION": true,
+    "TEST": true
+  },
+  "no_nan_inf_results": {
+    "TRAIN": {
+      "passed": true,
+      "nan_count": 0,
+      "infinity_count": 0
+    },
+    "VALIDATION": {
+      "passed": true,
+      "nan_count": 0,
+      "infinity_count": 0
+    },
+    "TEST": {
+      "passed": true,
+      "nan_count": 0,
+      "infinity_count": 0
+    }
+  },
+  "target_results": {
+    "TRAIN": true,
+    "VALIDATION": true,
+    "TEST": true
+  },
+  "source_results": {
+    "TRAIN": true,
+    "VALIDATION": true,
+    "TEST": true
+  },
+  "indicator_results": {
+    "TRAIN": {
+      "structure": true,
+      "values": true
+    },
+    "VALIDATION": {
+      "structure": true,
+      "values": true
+    },
+    "TEST": {
+      "structure": true,
+      "values": true
+    }
+  },
+  "imputed_results": {
+    "TRAIN": true,
+    "VALIDATION": true,
+    "TEST": true
+  },
+  "final_constant_results": {
+    "TRAIN": true,
+    "VALIDATION": true,
+    "TEST": true
+  },
+  "duplicate_pairs": {
+    "TRAIN": [],
+    "VALIDATION": [
+      [
+        "RST Flag Count",
+        "ECE Flag Count"
+      ],
+      [
+        "Fwd Packet Length Mean",
+        "Avg Fwd Segment Size"
+      ],
+      [
+        "Total Length of Fwd Packets",
+        "Subflow Fwd Bytes"
+      ]
+    ],
+    "TEST": [
+      [
+        "Fwd Packet Length Mean",
+        "Avg Fwd Segment Size"
+      ],
+      [
+        "Total Length of Fwd Packets",
+        "Subflow Fwd Bytes"
+      ]
+    ]
+  },
+  "all_labels_present": true,
+  "class_distributions": {
+    "TRAIN": {
+      "BENIGN": {
+        "count": 1590547,
+        "percentage": 80.47294736804825
+      },
+      "DoS Hulk": {
+        "count": 158095,
+        "percentage": 7.998739184790886
+      },
+      "PortScan": {
+        "count": 110513,
+        "percentage": 5.591351171945951
+      },
+      "DDoS": {
+        "count": 89615,
+        "percentage": 4.534027085265411
+      },
+      "DoS GoldenEye": {
+        "count": 7205,
+        "percentage": 0.36453345030784234
+      },
+      "FTP-Patator": {
+        "count": 5556,
+        "percentage": 0.28110310200005156
+      },
+      "SSH-Patator": {
+        "count": 4127,
+        "percentage": 0.20880354606807291
+      },
+      "DoS slowloris": {
+        "count": 4057,
+        "percentage": 0.2052619303121327
+      },
+      "DoS Slowhttptest": {
+        "count": 3849,
+        "percentage": 0.1947382720659105
+      },
+      "Bot": {
+        "count": 1376,
+        "percentage": 0.06961804685962401
+      },
+      "Web Attack - Brute Force": {
+        "count": 1055,
+        "percentage": 0.053377208893098355
+      },
+      "Web Attack - XSS": {
+        "count": 456,
+        "percentage": 0.023071096924410284
+      },
+      "Infiltration": {
+        "count": 26,
+        "percentage": 0.0013154572807777792
+      },
+      "Web Attack - Sql Injection": {
+        "count": 15,
+        "percentage": 0.0007589176619871804
+      },
+      "Heartbleed": {
+        "count": 7,
+        "percentage": 0.0003541615755940175
+      }
+    },
+    "VALIDATION": {
+      "BENIGN": {
+        "count": 340832,
+        "percentage": 80.47278041823974
+      },
+      "DoS Hulk": {
+        "count": 33877,
+        "percentage": 7.998592802990058
+      },
+      "PortScan": {
+        "count": 23682,
+        "percentage": 5.591483152593516
+      },
+      "DDoS": {
+        "count": 19203,
+        "percentage": 4.533960433208905
+      },
+      "DoS GoldenEye": {
+        "count": 1544,
+        "percentage": 0.36454902405220796
+      },
+      "FTP-Patator": {
+        "count": 1191,
+        "percentage": 0.2812032951076293
+      },
+      "SSH-Patator": {
+        "count": 885,
+        "percentage": 0.20895458956360366
+      },
+      "DoS slowloris": {
+        "count": 869,
+        "percentage": 0.2051768794697984
+      },
+      "DoS Slowhttptest": {
+        "count": 825,
+        "percentage": 0.1947881767118339
+      },
+      "Bot": {
+        "count": 295,
+        "percentage": 0.06965152985453456
+      },
+      "Web Attack - Brute Force": {
+        "count": 226,
+        "percentage": 0.05336015507499935
+      },
+      "Web Attack - XSS": {
+        "count": 98,
+        "percentage": 0.02313847432455724
+      },
+      "Infiltration": {
+        "count": 5,
+        "percentage": 0.0011805344043141449
+      },
+      "Web Attack - Sql Injection": {
+        "count": 3,
+        "percentage": 0.0007083206425884869
+      },
+      "Heartbleed": {
+        "count": 2,
+        "percentage": 0.00047221376172565795
+      }
+    },
+    "TEST": {
+      "BENIGN": {
+        "count": 340832,
+        "percentage": 80.47278041823974
+      },
+      "DoS Hulk": {
+        "count": 33877,
+        "percentage": 7.998592802990058
+      },
+      "PortScan": {
+        "count": 23682,
+        "percentage": 5.591483152593516
+      },
+      "DDoS": {
+        "count": 19203,
+        "percentage": 4.533960433208905
+      },
+      "DoS GoldenEye": {
+        "count": 1544,
+        "percentage": 0.36454902405220796
+      },
+      "FTP-Patator": {
+        "count": 1191,
+        "percentage": 0.2812032951076293
+      },
+      "SSH-Patator": {
+        "count": 885,
+        "percentage": 0.20895458956360366
+      },
+      "DoS slowloris": {
+        "count": 869,
+        "percentage": 0.2051768794697984
+      },
+      "DoS Slowhttptest": {
+        "count": 825,
+        "percentage": 0.1947881767118339
+      },
+      "Bot": {
+        "count": 295,
+        "percentage": 0.06965152985453456
+      },
+      "Web Attack - Brute Force": {
+        "count": 226,
+        "percentage": 0.05336015507499935
+      },
+      "Web Attack - XSS": {
+        "count": 98,
+        "percentage": 0.02313847432455724
+      },
+      "Infiltration": {
+        "count": 5,
+        "percentage": 0.0011805344043141449
+      },
+      "Web Attack - Sql Injection": {
+        "count": 3,
+        "percentage": 0.0007083206425884869
+      },
+      "Heartbleed": {
+        "count": 2,
+        "percentage": 0.00047221376172565795
+      }
+    }
+  },
+  "extreme_values": {
+    "TRAIN": {},
+    "VALIDATION": {},
+    "TEST": {}
+  },
+  "train_medians_file": true,
+  "feature_columns_file": true
+}

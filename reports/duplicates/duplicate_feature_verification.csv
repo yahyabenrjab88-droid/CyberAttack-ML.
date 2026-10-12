@@ -1,0 +1,11 @@
+feature_a,feature_b,status,rows_checked,equal_rows,different_rows,both_missing,only_a_missing,only_b_missing,comparable_rows,equality_rate_percent,first_mismatch_file,first_mismatch_row,first_mismatch_value_a,first_mismatch_value_b
+Fwd Header Length,Fwd Header Length.1,IDENTICAL,2830743,2830743,0,0,0,0,2830743,100.0,,,,
+Total Fwd Packets,Subflow Fwd Packets,IDENTICAL,2830743,2830743,0,0,0,0,2830743,100.0,,,,
+Total Backward Packets,Subflow Bwd Packets,IDENTICAL,2830743,2830743,0,0,0,0,2830743,100.0,,,,
+Total Length of Fwd Packets,Subflow Fwd Bytes,NOT IDENTICAL,2830743,2830742,1,0,0,0,2830743,99.9999646735857,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,103959,12900000,12870338
+Total Length of Bwd Packets,Subflow Bwd Bytes,NOT IDENTICAL,2830743,2830597,146,0,0,0,2830743,99.99484234351193,Friday-WorkingHours-Morning.pcap_ISCX.csv,862,10300000,10278193
+Fwd Packet Length Mean,Avg Fwd Segment Size,NOT IDENTICAL,2830743,2830742,1,0,0,0,2830743,99.9999646735857,Monday-WorkingHours.pcap_ISCX.csv,81648,717.7796610169,717.779661017
+Bwd Packet Length Mean,Avg Bwd Segment Size,NOT IDENTICAL,2830743,2830681,62,0,0,0,2830743,99.99780976231328,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,8347,1513.539062,1513.539063
+RST Flag Count,ECE Flag Count,NOT IDENTICAL,2830743,2830740,3,0,0,0,2830743,99.9998940207571,Monday-WorkingHours.pcap_ISCX.csv,336606,0,1
+Fwd URG Flags,CWE Flag Count,IDENTICAL,2830743,2830743,0,0,0,0,2830743,100.0,,,,
+Fwd PSH Flags,SYN Flag Count,IDENTICAL,2830743,2830743,0,0,0,0,2830743,100.0,,,,

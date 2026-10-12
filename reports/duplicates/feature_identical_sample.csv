@@ -1,0 +1,37 @@
+feature_1,feature_2,matching_sample_values
+Total Fwd Packets,Subflow Fwd Packets,77500
+Total Backward Packets,Subflow Bwd Packets,77500
+Total Length of Fwd Packets,Subflow Fwd Bytes,77500
+Fwd Packet Length Mean,Avg Fwd Segment Size,77500
+Fwd PSH Flags,SYN Flag Count,77500
+Bwd PSH Flags,Bwd URG Flags,77500
+Bwd PSH Flags,Fwd Avg Bytes/Bulk,77500
+Bwd PSH Flags,Fwd Avg Packets/Bulk,77500
+Bwd PSH Flags,Fwd Avg Bulk Rate,77500
+Bwd PSH Flags,Bwd Avg Bytes/Bulk,77500
+Bwd PSH Flags,Bwd Avg Packets/Bulk,77500
+Bwd PSH Flags,Bwd Avg Bulk Rate,77500
+Fwd URG Flags,CWE Flag Count,77500
+Bwd URG Flags,Fwd Avg Bytes/Bulk,77500
+Bwd URG Flags,Fwd Avg Packets/Bulk,77500
+Bwd URG Flags,Fwd Avg Bulk Rate,77500
+Bwd URG Flags,Bwd Avg Bytes/Bulk,77500
+Bwd URG Flags,Bwd Avg Packets/Bulk,77500
+Bwd URG Flags,Bwd Avg Bulk Rate,77500
+Fwd Header Length,Fwd Header Length.1,77500
+RST Flag Count,ECE Flag Count,77500
+Fwd Avg Bytes/Bulk,Fwd Avg Packets/Bulk,77500
+Fwd Avg Bytes/Bulk,Fwd Avg Bulk Rate,77500
+Fwd Avg Bytes/Bulk,Bwd Avg Bytes/Bulk,77500
+Fwd Avg Bytes/Bulk,Bwd Avg Packets/Bulk,77500
+Fwd Avg Bytes/Bulk,Bwd Avg Bulk Rate,77500
+Fwd Avg Packets/Bulk,Fwd Avg Bulk Rate,77500
+Fwd Avg Packets/Bulk,Bwd Avg Bytes/Bulk,77500
+Fwd Avg Packets/Bulk,Bwd Avg Packets/Bulk,77500
+Fwd Avg Packets/Bulk,Bwd Avg Bulk Rate,77500
+Fwd Avg Bulk Rate,Bwd Avg Bytes/Bulk,77500
+Fwd Avg Bulk Rate,Bwd Avg Packets/Bulk,77500
+Fwd Avg Bulk Rate,Bwd Avg Bulk Rate,77500
+Bwd Avg Bytes/Bulk,Bwd Avg Packets/Bulk,77500
+Bwd Avg Bytes/Bulk,Bwd Avg Bulk Rate,77500
+Bwd Avg Packets/Bulk,Bwd Avg Bulk Rate,77500

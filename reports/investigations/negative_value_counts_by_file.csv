@@ -1,0 +1,211 @@
+feature,file,negative_value,row_count
+Flow Duration,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-1.0,2
+Flow Duration,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-13.0,1
+Flow Duration,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-12.0,1
+Flow Duration,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-2.0,1
+Flow Duration,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-1.0,33
+Flow Duration,Friday-WorkingHours-Morning.pcap_ISCX.csv,-12.0,1
+Flow Duration,Friday-WorkingHours-Morning.pcap_ISCX.csv,-1.0,8
+Flow Duration,Monday-WorkingHours.pcap_ISCX.csv,-1.0,15
+Flow Duration,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-2.0,1
+Flow Duration,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-1.0,3
+Flow Duration,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-1.0,11
+Flow Duration,Tuesday-WorkingHours.pcap_ISCX.csv,-4.0,1
+Flow Duration,Tuesday-WorkingHours.pcap_ISCX.csv,-1.0,16
+Flow Duration,Wednesday-workingHours.pcap_ISCX.csv,-1.0,21
+Flow Bytes/s,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-12000000.0,2
+Flow Bytes/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-193000000.0,1
+Flow Bytes/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-12000000.0,4
+Flow Bytes/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-8000000.0,13
+Flow Bytes/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-6000000.0,15
+Flow Bytes/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-4000000.0,1
+Flow Bytes/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-666666.6667,1
+Flow Bytes/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-461538.4615,1
+Flow Bytes/s,Friday-WorkingHours-Morning.pcap_ISCX.csv,-12000000.0,7
+Flow Bytes/s,Friday-WorkingHours-Morning.pcap_ISCX.csv,-1000000.0,1
+Flow Bytes/s,Monday-WorkingHours.pcap_ISCX.csv,-12000000.0,9
+Flow Bytes/s,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-12000000.0,3
+Flow Bytes/s,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-6000000.0,1
+Flow Bytes/s,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-261000000.0,1
+Flow Bytes/s,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-12000000.0,9
+Flow Bytes/s,Wednesday-workingHours.pcap_ISCX.csv,-12000000.0,16
+Flow Packets/s,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-2000000.0,2
+Flow Packets/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-2000000.0,33
+Flow Packets/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-1000000.0,1
+Flow Packets/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-166666.6667,1
+Flow Packets/s,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-153846.1538,1
+Flow Packets/s,Friday-WorkingHours-Morning.pcap_ISCX.csv,-2000000.0,8
+Flow Packets/s,Friday-WorkingHours-Morning.pcap_ISCX.csv,-166666.6667,1
+Flow Packets/s,Monday-WorkingHours.pcap_ISCX.csv,-2000000.0,15
+Flow Packets/s,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-2000000.0,3
+Flow Packets/s,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-1000000.0,1
+Flow Packets/s,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-2000000.0,11
+Flow Packets/s,Tuesday-WorkingHours.pcap_ISCX.csv,-2000000.0,16
+Flow Packets/s,Tuesday-WorkingHours.pcap_ISCX.csv,-500000.0,1
+Flow Packets/s,Wednesday-workingHours.pcap_ISCX.csv,-2000000.0,21
+Flow IAT Mean,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-1.0,2
+Flow IAT Mean,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-13.0,1
+Flow IAT Mean,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-12.0,1
+Flow IAT Mean,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-2.0,1
+Flow IAT Mean,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-1.0,33
+Flow IAT Mean,Friday-WorkingHours-Morning.pcap_ISCX.csv,-12.0,1
+Flow IAT Mean,Friday-WorkingHours-Morning.pcap_ISCX.csv,-1.0,8
+Flow IAT Mean,Monday-WorkingHours.pcap_ISCX.csv,-1.0,15
+Flow IAT Mean,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-2.0,1
+Flow IAT Mean,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-1.0,3
+Flow IAT Mean,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-1.0,11
+Flow IAT Mean,Tuesday-WorkingHours.pcap_ISCX.csv,-4.0,1
+Flow IAT Mean,Tuesday-WorkingHours.pcap_ISCX.csv,-1.0,16
+Flow IAT Mean,Wednesday-workingHours.pcap_ISCX.csv,-1.0,21
+Flow IAT Max,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-1.0,2
+Flow IAT Max,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-13.0,1
+Flow IAT Max,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-12.0,1
+Flow IAT Max,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-2.0,1
+Flow IAT Max,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-1.0,33
+Flow IAT Max,Friday-WorkingHours-Morning.pcap_ISCX.csv,-12.0,1
+Flow IAT Max,Friday-WorkingHours-Morning.pcap_ISCX.csv,-1.0,8
+Flow IAT Max,Monday-WorkingHours.pcap_ISCX.csv,-1.0,15
+Flow IAT Max,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-2.0,1
+Flow IAT Max,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-1.0,3
+Flow IAT Max,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-1.0,11
+Flow IAT Max,Tuesday-WorkingHours.pcap_ISCX.csv,-4.0,1
+Flow IAT Max,Tuesday-WorkingHours.pcap_ISCX.csv,-1.0,16
+Flow IAT Max,Wednesday-workingHours.pcap_ISCX.csv,-1.0,21
+Flow IAT Min,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-12.0,1
+Flow IAT Min,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-3.0,1
+Flow IAT Min,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-2.0,2
+Flow IAT Min,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-1.0,104
+Flow IAT Min,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-13.0,2
+Flow IAT Min,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-12.0,1
+Flow IAT Min,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-11.0,1
+Flow IAT Min,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-10.0,1
+Flow IAT Min,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-3.0,1
+Flow IAT Min,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-2.0,2
+Flow IAT Min,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,-1.0,168
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-13.0,1
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-12.0,2
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-6.0,1
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-5.0,1
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-4.0,5
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-3.0,2
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-2.0,4
+Flow IAT Min,Friday-WorkingHours-Morning.pcap_ISCX.csv,-1.0,209
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-14.0,1
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-13.0,3
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-12.0,7
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-11.0,4
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-10.0,1
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-5.0,3
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-4.0,1
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-3.0,1
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-2.0,2
+Flow IAT Min,Monday-WorkingHours.pcap_ISCX.csv,-1.0,489
+Flow IAT Min,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-12.0,6
+Flow IAT Min,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-11.0,1
+Flow IAT Min,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-4.0,1
+Flow IAT Min,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-2.0,5
+Flow IAT Min,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,-1.0,340
+Flow IAT Min,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-12.0,1
+Flow IAT Min,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-11.0,1
+Flow IAT Min,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-5.0,2
+Flow IAT Min,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-3.0,4
+Flow IAT Min,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-2.0,6
+Flow IAT Min,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,-1.0,249
+Flow IAT Min,Tuesday-WorkingHours.pcap_ISCX.csv,-13.0,2
+Flow IAT Min,Tuesday-WorkingHours.pcap_ISCX.csv,-12.0,5
+Flow IAT Min,Tuesday-WorkingHours.pcap_ISCX.csv,-11.0,1
+Flow IAT Min,Tuesday-WorkingHours.pcap_ISCX.csv,-4.0,6
+Flow IAT Min,Tuesday-WorkingHours.pcap_ISCX.csv,-3.0,1
+Flow IAT Min,Tuesday-WorkingHours.pcap_ISCX.csv,-2.0,2
+Flow IAT Min,Tuesday-WorkingHours.pcap_ISCX.csv,-1.0,488
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-14.0,1
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-13.0,4
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-12.0,9
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-11.0,4
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-10.0,2
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-8.0,1
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-6.0,1
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-5.0,5
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-4.0,4
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-3.0,7
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-2.0,4
+Flow IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-1.0,707
+Fwd IAT Min,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-12.0,1
+Fwd IAT Min,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,-1.0,5
+Fwd IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-8.0,1
+Fwd IAT Min,Wednesday-workingHours.pcap_ISCX.csv,-1.0,10
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-1929349973.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-1006623756.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-1006620072.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-922738443.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770494.0,2
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770490.0,3
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770470.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770458.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770400.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885221.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885137.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885133.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885125.0,3
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885113.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885093.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885081.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885015.0,1
+Fwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885011.0,1
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-32212234632.0,1
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-9663668122.0,1
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-6442447920.0,2
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-4831831506.0,1
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-2147482640.0,1
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-1073741320.0,3
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-1073741218.0,1
+Fwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-1073740992.0,1
+Fwd Header Length,Wednesday-workingHours.pcap_ISCX.csv,-11.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770490.0,2
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770470.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-167770400.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885221.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885181.0,2
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885145.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885137.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885133.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885125.0,2
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885113.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885093.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885081.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885015.0,1
+Bwd Header Length,Monday-WorkingHours.pcap_ISCX.csv,-83885011.0,1
+Bwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-1073741320.0,3
+Bwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-1073741218.0,1
+Bwd Header Length,Tuesday-WorkingHours.pcap_ISCX.csv,-1073740992.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-1929349973.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-1006623756.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-1006620072.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-922738443.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-167770494.0,2
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-167770490.0,3
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-167770470.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-167770458.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-167770400.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885221.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885137.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885133.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885125.0,3
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885113.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885093.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885081.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885015.0,1
+Fwd Header Length.1,Monday-WorkingHours.pcap_ISCX.csv,-83885011.0,1
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-32212234632.0,1
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-9663668122.0,1
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-6442447920.0,2
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-4831831506.0,1
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-2147482640.0,1
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-1073741320.0,3
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-1073741218.0,1
+Fwd Header Length.1,Tuesday-WorkingHours.pcap_ISCX.csv,-1073740992.0,1
+Fwd Header Length.1,Wednesday-workingHours.pcap_ISCX.csv,-11.0,1
+min_seg_size_forward,Monday-WorkingHours.pcap_ISCX.csv,-83885313.0,23
+min_seg_size_forward,Tuesday-WorkingHours.pcap_ISCX.csv,-536870661.0,2
+min_seg_size_forward,Tuesday-WorkingHours.pcap_ISCX.csv,-536870660.0,9
+min_seg_size_forward,Wednesday-workingHours.pcap_ISCX.csv,-1.0,1

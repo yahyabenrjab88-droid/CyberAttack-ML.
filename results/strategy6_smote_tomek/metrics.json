@@ -1,0 +1,78 @@
+{
+  "experiment": "strategy6_smote_tomek",
+  "data": {
+    "train_path": "C:\\CyberAttack-ML\\data\\processed\\preprocessed\\train.parquet",
+    "validation_path": "C:\\CyberAttack-ML\\data\\processed\\preprocessed\\validation.parquet",
+    "test_path_used": null,
+    "n_train_rows": 1976499,
+    "n_validation_rows": 423537,
+    "n_features": 68,
+    "n_classes": 15
+  },
+  "specialist_original_distribution": {
+    "BF": 1055,
+    "XSS": 456,
+    "total": 1511
+  },
+  "smote_tomek_distribution": {
+    "BF": 846,
+    "XSS": 846,
+    "total": 1692
+  },
+  "smote_sampling_strategy": {
+    "Web Attack - XSS": 1055
+  },
+  "metrics_before": {
+    "accuracy": 0.9944703768501926,
+    "macro_f1": 0.858600999124857,
+    "weighted_f1": 0.9945054800850892
+  },
+  "metrics_after": {
+    "accuracy": 0.9944892654006616,
+    "macro_f1": 0.8621750909539825,
+    "weighted_f1": 0.9945232937418166
+  },
+  "delta": {
+    "macro_f1": 0.003574091829125492,
+    "weighted_f1": 1.781365672737234e-05,
+    "accuracy": 1.888855046905391e-05
+  },
+  "bf_xss_confusion": {
+    "BF_to_XSS": {
+      "before": 60,
+      "after": 56,
+      "delta": -4
+    },
+    "XSS_to_BF": {
+      "before": 48,
+      "after": 44,
+      "delta": -4
+    },
+    "mutual": {
+      "before": 108,
+      "after": 100,
+      "delta": -8
+    }
+  },
+  "cascade": {
+    "n_routed": 347,
+    "n_changed": 68,
+    "fixed": 36,
+    "damaged": 28
+  },
+  "guardrail": {
+    "passed": true,
+    "violations": []
+  },
+  "timing": {
+    "primary_train_sec": 96.38912499998696,
+    "primary_predict_sec": 2.8164043000433594,
+    "smote_tomek_sec": 0.09669120004400611,
+    "specialist_train_sec": 1.0089848000789061,
+    "specialist_predict_sec": 0.004739399999380112
+  },
+  "environment": {
+    "python_version": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

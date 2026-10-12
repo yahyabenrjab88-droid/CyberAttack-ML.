@@ -1,0 +1,11 @@
+metric,value
+raw_rows,2830743
+removed_negative_duration,115
+removed_invalid_headers,35
+conflicting_groups,698
+removed_conflict_rows,7020
+final_rows,2823573
+final_columns,75
+numeric_conversion_failures,0
+duplicate_columns_removed,5
+constant_zero_columns,8

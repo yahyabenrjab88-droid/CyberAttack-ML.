@@ -1,0 +1,120 @@
+feature,negative_value,row_count
+Flow Duration,-13.0,1
+Flow Duration,-12.0,2
+Flow Duration,-4.0,1
+Flow Duration,-2.0,2
+Flow Duration,-1.0,109
+Flow Bytes/s,-261000000.0,1
+Flow Bytes/s,-193000000.0,1
+Flow Bytes/s,-12000000.0,50
+Flow Bytes/s,-8000000.0,13
+Flow Bytes/s,-6000000.0,16
+Flow Bytes/s,-4000000.0,1
+Flow Bytes/s,-1000000.0,1
+Flow Bytes/s,-666666.6667,1
+Flow Bytes/s,-461538.4615,1
+Flow Packets/s,-2000000.0,109
+Flow Packets/s,-1000000.0,2
+Flow Packets/s,-500000.0,1
+Flow Packets/s,-166666.6667,2
+Flow Packets/s,-153846.1538,1
+Flow IAT Mean,-13.0,1
+Flow IAT Mean,-12.0,2
+Flow IAT Mean,-4.0,1
+Flow IAT Mean,-2.0,2
+Flow IAT Mean,-1.0,109
+Flow IAT Max,-13.0,1
+Flow IAT Max,-12.0,2
+Flow IAT Max,-4.0,1
+Flow IAT Max,-2.0,2
+Flow IAT Max,-1.0,109
+Flow IAT Min,-14.0,2
+Flow IAT Min,-13.0,12
+Flow IAT Min,-12.0,32
+Flow IAT Min,-11.0,12
+Flow IAT Min,-10.0,4
+Flow IAT Min,-8.0,1
+Flow IAT Min,-6.0,2
+Flow IAT Min,-5.0,11
+Flow IAT Min,-4.0,17
+Flow IAT Min,-3.0,17
+Flow IAT Min,-2.0,27
+Flow IAT Min,-1.0,2754
+Fwd IAT Min,-12.0,1
+Fwd IAT Min,-8.0,1
+Fwd IAT Min,-1.0,15
+Fwd Header Length,-32212234632.0,1
+Fwd Header Length,-9663668122.0,1
+Fwd Header Length,-6442447920.0,2
+Fwd Header Length,-4831831506.0,1
+Fwd Header Length,-2147482640.0,1
+Fwd Header Length,-1929349973.0,1
+Fwd Header Length,-1073741320.0,3
+Fwd Header Length,-1073741218.0,1
+Fwd Header Length,-1073740992.0,1
+Fwd Header Length,-1006623756.0,1
+Fwd Header Length,-1006620072.0,1
+Fwd Header Length,-922738443.0,1
+Fwd Header Length,-167770494.0,2
+Fwd Header Length,-167770490.0,3
+Fwd Header Length,-167770470.0,1
+Fwd Header Length,-167770458.0,1
+Fwd Header Length,-167770400.0,1
+Fwd Header Length,-83885221.0,1
+Fwd Header Length,-83885137.0,1
+Fwd Header Length,-83885133.0,1
+Fwd Header Length,-83885125.0,3
+Fwd Header Length,-83885113.0,1
+Fwd Header Length,-83885093.0,1
+Fwd Header Length,-83885081.0,1
+Fwd Header Length,-83885015.0,1
+Fwd Header Length,-83885011.0,1
+Fwd Header Length,-11.0,1
+Bwd Header Length,-1073741320.0,3
+Bwd Header Length,-1073741218.0,1
+Bwd Header Length,-1073740992.0,1
+Bwd Header Length,-167770490.0,2
+Bwd Header Length,-167770470.0,1
+Bwd Header Length,-167770400.0,1
+Bwd Header Length,-83885221.0,1
+Bwd Header Length,-83885181.0,2
+Bwd Header Length,-83885145.0,1
+Bwd Header Length,-83885137.0,1
+Bwd Header Length,-83885133.0,1
+Bwd Header Length,-83885125.0,2
+Bwd Header Length,-83885113.0,1
+Bwd Header Length,-83885093.0,1
+Bwd Header Length,-83885081.0,1
+Bwd Header Length,-83885015.0,1
+Bwd Header Length,-83885011.0,1
+Fwd Header Length.1,-32212234632.0,1
+Fwd Header Length.1,-9663668122.0,1
+Fwd Header Length.1,-6442447920.0,2
+Fwd Header Length.1,-4831831506.0,1
+Fwd Header Length.1,-2147482640.0,1
+Fwd Header Length.1,-1929349973.0,1
+Fwd Header Length.1,-1073741320.0,3
+Fwd Header Length.1,-1073741218.0,1
+Fwd Header Length.1,-1073740992.0,1
+Fwd Header Length.1,-1006623756.0,1
+Fwd Header Length.1,-1006620072.0,1
+Fwd Header Length.1,-922738443.0,1
+Fwd Header Length.1,-167770494.0,2
+Fwd Header Length.1,-167770490.0,3
+Fwd Header Length.1,-167770470.0,1
+Fwd Header Length.1,-167770458.0,1
+Fwd Header Length.1,-167770400.0,1
+Fwd Header Length.1,-83885221.0,1
+Fwd Header Length.1,-83885137.0,1
+Fwd Header Length.1,-83885133.0,1
+Fwd Header Length.1,-83885125.0,3
+Fwd Header Length.1,-83885113.0,1
+Fwd Header Length.1,-83885093.0,1
+Fwd Header Length.1,-83885081.0,1
+Fwd Header Length.1,-83885015.0,1
+Fwd Header Length.1,-83885011.0,1
+Fwd Header Length.1,-11.0,1
+min_seg_size_forward,-536870661.0,2
+min_seg_size_forward,-536870660.0,9
+min_seg_size_forward,-83885313.0,23
+min_seg_size_forward,-1.0,1

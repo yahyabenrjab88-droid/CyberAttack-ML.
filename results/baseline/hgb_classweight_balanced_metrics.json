@@ -1,0 +1,10 @@
+{
+  "experiment": "hgb_classweight_balanced",
+  "accuracy": 0.9938989981985045,
+  "macro_f1": 0.8588401835917688,
+  "weighted_f1": 0.9939152832815811,
+  "n_train_rows": 1976499,
+  "n_validation_rows": 423537,
+  "n_features": 68,
+  "n_classes": 15
+}

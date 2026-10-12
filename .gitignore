@@ -1,0 +1,47 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Datasets — keep local
+data/raw/
+data/external/
+data/processed/
+
+# Temporary logs
+*.log
+
+# Model artifacts
+# Keep final and historical models in Git.
+
+# Experiment results and reports
+# Keep these in Git to document the full experimental journey.
+
+# Local safety backups — keep out of Git
+backups/
+
+# Temporary script backups
+*.pre_historical_move.bak

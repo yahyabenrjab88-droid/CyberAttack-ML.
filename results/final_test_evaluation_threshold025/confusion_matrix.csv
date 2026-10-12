@@ -1,0 +1,14 @@
+,predicted_BENIGN,predicted_Bot,predicted_DDoS,predicted_DoS GoldenEye,predicted_DoS Hulk,predicted_DoS Slowhttptest,predicted_DoS slowloris,predicted_FTP-Patator,predicted_Heartbleed,predicted_Infiltration,predicted_PortScan,predicted_SSH-Patator,predicted_Web Attack
+actual_BENIGN,338932,99,2,2,821,56,92,30,0,1,743,32,22
+actual_Bot,4,291,0,0,0,0,0,0,0,0,0,0,0
+actual_DDoS,2,0,19201,0,0,0,0,0,0,0,0,0,0
+actual_DoS GoldenEye,1,0,0,1542,0,1,0,0,0,0,0,0,0
+actual_DoS Hulk,4,0,0,3,33870,0,0,0,0,0,0,0,0
+actual_DoS Slowhttptest,0,0,0,0,0,818,7,0,0,0,0,0,0
+actual_DoS slowloris,0,0,0,0,0,1,868,0,0,0,0,0,0
+actual_FTP-Patator,1,0,0,0,0,0,0,1190,0,0,0,0,0
+actual_Heartbleed,0,0,0,0,0,0,0,0,2,0,0,0,0
+actual_Infiltration,0,0,0,0,0,0,0,0,0,5,0,0,0
+actual_PortScan,0,0,0,0,2,0,0,0,0,0,23679,0,1
+actual_SSH-Patator,0,0,0,0,0,0,0,0,0,0,0,885,0
+actual_Web Attack,2,0,0,1,0,0,2,0,0,0,0,0,322

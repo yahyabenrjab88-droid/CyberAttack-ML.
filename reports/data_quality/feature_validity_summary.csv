@@ -1,0 +1,15 @@
+check,severity,count
+missing_Flow Bytes/s,NEEDS_HANDLING,1358
+negative_Bwd Header Length,DEFINITE_INVALID,22
+negative_Flow Bytes/s,NEEDS_INVESTIGATION,85
+negative_Flow Duration,NEEDS_INVESTIGATION,115
+negative_Flow IAT Max,NEEDS_INVESTIGATION,115
+negative_Flow IAT Mean,NEEDS_INVESTIGATION,115
+negative_Flow IAT Min,NEEDS_INVESTIGATION,2891
+negative_Flow Packets/s,NEEDS_INVESTIGATION,115
+negative_Fwd Header Length,DEFINITE_INVALID,35
+negative_Fwd Header Length.1,DEFINITE_INVALID,35
+negative_Fwd IAT Min,NEEDS_INVESTIGATION,17
+negative_min_seg_size_forward,DEFINITE_INVALID,35
+positive_infinity_Flow Bytes/s,NEEDS_HANDLING,1509
+positive_infinity_Flow Packets/s,NEEDS_HANDLING,2867

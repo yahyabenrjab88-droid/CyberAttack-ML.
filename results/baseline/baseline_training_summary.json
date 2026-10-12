@@ -1,0 +1,46 @@
+{
+    "strategy": {
+        "dataset": "CICIDS2017",
+        "task": "15-class multiclass classification",
+        "train_split": "data/processed/preprocessed/train.parquet",
+        "validation_split": "data/processed/preprocessed/validation.parquet",
+        "test_used": false,
+        "feature_count": 68,
+        "source_file_used_as_feature": false,
+        "smote": false,
+        "class_weights": false,
+        "feature_engineering": false,
+        "scaling": false
+    },
+    "model": {
+        "name": "HistGradientBoostingClassifier",
+        "learning_rate": 0.1,
+        "max_iter": 300,
+        "max_leaf_nodes": 31,
+        "min_samples_leaf": 20,
+        "early_stopping": true,
+        "random_state": 42
+    },
+    "results": {
+        "model": "HistGradientBoostingClassifier",
+        "task": "multiclass_classification",
+        "random_seed": 42,
+        "n_features": 68,
+        "n_classes": 15,
+        "train_rows": 1976499,
+        "validation_rows": 423537,
+        "accuracy": 0.9316376137149764,
+        "macro_f1": 0.4557274915070363,
+        "weighted_f1": 0.9476896071767159,
+        "training_time_seconds": 28.646175000001676,
+        "training_time_minutes": 0.47743625000002793,
+        "validation_prediction_time_seconds": 1.0166007000370882,
+        "iterations_used": 21
+    },
+    "outputs": {
+        "model": "models\\baseline_hist_gradient_boosting.joblib",
+        "metrics": "results\\baseline_metrics.json",
+        "classification_report": "results\\baseline_classification_report.csv",
+        "confusion_matrix": "results\\baseline_confusion_matrix.csv"
+    }
+}
